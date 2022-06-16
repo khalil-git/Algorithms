@@ -1,3 +1,7 @@
+/*
+ Permuation Algorithm 
+ - return all the possible permutations
+*/
 const permutation = {
 
     // Get permutaion list of a giving string
@@ -38,7 +42,8 @@ const permutation = {
     }
   }  
   
-   
+ 
+  console.log(permutation.permutate("abcd"));
   console.log(permutation.count("abcd"));
   
   

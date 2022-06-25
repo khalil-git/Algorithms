@@ -9,4 +9,4 @@ This repository contains JavaScript based examples of many popular algorithms an
 - Sorting
   - [Bubble Sort](https://github.com/khalil-git/Algorithms/blob/main/Sort/BubbleSort.js)
 - Sets
-  - [Permutation](https://github.com/khalil-git/Algorithms/blob/main/Permutation/permutaion.js)
+  - [Permutation](https://github.com/khalil-git/Algorithms/blob/main/Permutation/Permutaion.js)
